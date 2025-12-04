@@ -245,7 +245,7 @@ export default function Home() {
       width="100%"
       height="450"
       className="rounded-xl shadow-xl w-full h-[300px] md:h-[500px]"
-      allowFullScreen=""
+      allowFullScreen
       loading="lazy"
       referrerPolicy="no-referrer-when-downgrade"
     ></iframe>
