@@ -236,20 +236,20 @@ export default function Home() {
 <section className="bg-white py-16 md:py-20 px-6 text-center">
   <h2 className="text-4xl md:text-6xl font-bold">Ven a visitarnos</h2>
   <p className="text-lg md:text-2xl opacity-80 mt-4">
-    C. Leganés, 3, 28901 Getafe, Madrid
+    P.º de María Lejárraga, 5, 28905 Getafe, Madrid
   </p>
 
   <div className="mt-10 md:mt-12 w-full max-w-5xl md:max-w-7xl mx-auto">
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.134554872495!2d-3.734514684606177!3d40.30551407937945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd418b1ab7e8fc41%3A0xd9dfaf039ad39224!2sC.%20Legan%C3%A9s%2C%203%2C%2028901%20Getafe%2C%20Madrid!5e0!3m2!1ses!2ses!4v1700000000000"
-      width="100%"
-      height="450"
-      className="rounded-xl shadow-xl w-full h-[300px] md:h-[500px]"
-      allowFullScreen
-      loading="lazy"
-      referrerPolicy="no-referrer-when-downgrade"
-    ></iframe>
-  </div>
+  <iframe
+    src="https://www.google.com/maps?q=Made%20in%20Terra%20Nostra%2C%2040.2994712%2C-3.7531215&z=16&output=embed"
+    width="100%"
+    height="450"
+    className="rounded-xl shadow-xl w-full h-[300px] md:h-[500px]"
+    allowFullScreen
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+  ></iframe>
+</div>
 </section>
 
 <footer className="bg-black text-white py-14 px-6 text-center">
